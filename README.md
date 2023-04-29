@@ -1,7 +1,7 @@
 # previousApp
 <h2 >Installation </h2>
-Clone repo
-run npm install
+<p> Clone repo </p>
+ <p> run npm install </p>
 <h2> Usage </h2?
-node server.js
-Navigate to localhost:3000
+<p> node server.js. </p>
+<p> Navigate to localhost:3000 </p>
