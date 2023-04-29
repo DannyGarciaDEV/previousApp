@@ -1,0 +1,11 @@
+h1{
+  color: red;
+}
+body{
+  align-content: space-around;
+    background-color: rgb(226, 195, 38);
+    align-self: center;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
